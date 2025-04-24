@@ -48,18 +48,19 @@ display: flex;
 justify-content: space-between;
 }
 
-.header-image {
+/* .header-image {
 display: flex;
 background: rgb(107, 107, 109);
 width: 400px;
-height: 100px;
+height: 300px;
 border-radius:10 px;
 padding: 100px 100px;
 align-items: center;
 justify-content: center;
 margin-left: 50px;
 font-size: 14px;
-}
+} */
+
 .header-content h1 {
 font-size: 48px;
 font-weight: 900;
