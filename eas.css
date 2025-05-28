@@ -1,0 +1,50 @@
+
+body {
+    text-align: center;
+}
+h1 {
+font-size: 36px;
+font-weight: 300;
+color: #1F2937;
+}
+
+p {
+font-size: 20px;
+font-weight: 300;
+color: #1F2937;
+}
+
+.playarea{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.leftpad {
+    display: flex;
+    width: 400px;
+    height: auto;
+}
+
+/* #canva {
+    display: flex;
+    min-width: 600px;
+    max-width: 600px;
+    min-height: 600px;
+    max-height: 600px;
+    border: 2px solid black;
+    flex-wrap: wrap;
+} */
+
+.setting {
+    display: box;
+    width: 400px;
+    height: auto;
+}
+
+.note {
+font-size: 16px;
+font-style: italic;
+font-weight: 300;
+color: #1F2937;
+}
